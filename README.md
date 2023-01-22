@@ -38,4 +38,4 @@ I learned how to make a picture change on the HTML5 using the tag <picture>.
 ## Author
 
 - LinkedIn - [www.linkedin.com/in/wiklyn-craveiro]
-- Frontend Mentor - [@yWiklyn](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Wiklyn](https://www.frontendmentor.io/profile/yourusername)
